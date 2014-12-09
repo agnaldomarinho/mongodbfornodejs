@@ -20,3 +20,5 @@ pois todos os dados são armazenados de qualquer forma sem ter um padrão especi
 relacional onde normalmente o desenvolvedor criava uma nova coluna na tabela relacionada
 
 Mais informações http://mongodb.org/
+
+# Node JS
