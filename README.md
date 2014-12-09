@@ -22,3 +22,7 @@ relacional onde normalmente o desenvolvedor criava uma nova coluna na tabela rel
 Mais informações http://mongodb.org/
 
 # Node JS
+
+Node.js é um projeto de código aberto projetado para auxiliar na escrita de programas 
+em JavaScript que conversem com redes, sistema de arquivos ou outro I/O (entrada/saida, 
+leitura/escrita).
