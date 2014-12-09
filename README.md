@@ -26,3 +26,16 @@ Mais informações http://mongodb.org/
 Node.js é um projeto de código aberto projetado para auxiliar na escrita de programas 
 em JavaScript que conversem com redes, sistema de arquivos ou outro I/O (entrada/saida, 
 leitura/escrita).
+
+# NPM
+
+Não se pode falar em módulos em Node sem falar do NPM, ele é o gerenciador de pacotes 
+incluso dentro do pacote do Node.
+
+Se você não está usando a NPM e os módulos do Node para implementar sua aplicação, você pode estar fazendo isso errado!
+
+– Modularizar: Escrever pequenos módulos que fazem apenas uma coisa, e integrá-los para 
+fazer coisas mais complexas – Usar o gerenciador de pacotes: Usar a NPM para administrar 
+suas dependências e parar de se preocupar com elas – Utilizar módulos em Node: É um sistema 
+de módulos simples e expressivo que facilita a modularização de sua aplicação em Node e te
+proporciona módulos paramétricos de primeira classe.
