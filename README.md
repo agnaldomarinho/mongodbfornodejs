@@ -39,3 +39,15 @@ fazer coisas mais complexas – Usar o gerenciador de pacotes: Usar a NPM para a
 suas dependências e parar de se preocupar com elas – Utilizar módulos em Node: É um sistema 
 de módulos simples e expressivo que facilita a modularização de sua aplicação em Node e te
 proporciona módulos paramétricos de primeira classe.
+
+## Conhecendo os principais comandos
+- npm install nome_do_módulo - instala um módulo no projeto.
+- npm install nome_do_módulo –save - instala o módulo e adiciona-o na lista de dependências do package.json do projeto.
+- npm list - lista todos os módulos existentes no projeto.
+- npm list -g - lista todos os módulos globais.
+- npm remove nome_do_módulo - desinstala um módulo do projeto.
+- npm update nome_do_módulo - atualiza a versão do módulo.
+- npm -v - exibe a versão atual do npm.
+- npm adduser nome_do_usuário - cria um usuário no site NPM para publicar seu módulo na internet.
+- npm whoami - exibe detalhes do seu perfil público do npm (é necessário criar um usuário com o comando anterior).
+- npm publish - publica o seu módulo, é necessário ter uma conta ativa no NPM.
