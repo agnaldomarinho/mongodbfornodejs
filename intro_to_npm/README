@@ -1,0 +1,6 @@
+Para executar o app.js
+Você prescisa instalar as dependencias
+
+npm install express
+npm install consolidadate
+npm install mongodb
